@@ -1,0 +1,715 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <link href="OfficialForms.css" rel="stylesheet" />
+    <script src="/Scripts/jquery-2.1.1.js"></script>
+    <script src="/Scripts/forms.js"></script>
+    <script src="/Scripts/Libs/numeral-js/numeral.js"></script>
+    <meta name="viewport" content="width=device-width" />
+    <title>Nevada Plan</title>
+
+    <style type="text/css">
+        .header {
+            font-size: 1rem;
+            text-align: center;
+            font-weight: bold;
+            margin-bottom: 30px;
+        }
+        section > article {
+            height: initial;
+        }
+
+        table thead.noBorder td,
+        table thead.noBorder th,
+        table tbody.noBorder td {
+            border: none;
+            vertical-align: top;
+        }
+
+    </style>
+
+
+</head>
+<body>
+
+    <section>
+        <article>
+
+            <div class="display bold">
+                Legal Eagle<br />
+                Bar No.: 12345678<br />
+                Goony Bird and Associates<br />
+                1234 N. Main St.<br />
+                Suite 2201<br />
+                San Antonio, TX 78209<br />
+                Phone: (210) 555-5555<br />
+                Fax: (210) 555-5556<br />
+                Attorney for the Debtor(s)<br />
+            </div>
+
+            <div class="header">
+                <div>UNITED STATES BANKRUPTCY COURT</div>
+                <div>SOUTHERN DISTRICT OF TEXAS</div>
+                <div>HOUSTON DIVISION</div>
+            </div>
+
+            <table class="noBorder">
+                <colgroup>
+                    <col style="width: 90px;" />
+                    <col style="width: 308px;" />
+                    <col style="width: 20px;" />
+                    <col style="width: 90px;" />
+                    <col>
+                </colgroup>
+                <tbody>
+                    <tr>
+                        <th>
+                            In re: A. Bald TXSBPlan Eagle
+                        </th>
+                    </tr>
+                </tbody>
+            </table>
+
+            <div class="header">CHAPTER 13 PLAN AND MOTION TO VALUE COLLATERAL</div>
+
+            <p>
+                The Debtor represents and warrants that this Chapter 13 Plan conforms to the Model Chapter 13 Plan issued by the Standing
+                Chapter 13 Trustee pursuant to L.R. 3015(a). Except as provided in Article IV of this Plan, any modifications to the text of the
+                Model Plan are void and shall be given no force or effect.
+            </p>
+
+            <p>
+                This Plan contains evidentiary allegations which, if not controverted, may be accepted by the Court as true without further notice
+                and hearing. Creditors may not vote on this Plan but they may object to its confirmation pursuant to 11 U.S.C. § 1324. Any
+                objections to the Debtor's proposed valuation of collateral may also be raised in the context of an objection to the Plan.
+                Objections must be filed with the Court and served upon Debtor, Debtor's attorney, and Standing Chapter 13 Trustee. Absent a
+                timely filed objection, the Court may confirm this Plan and grant any motions regarding the proposed valuation of collateral
+                without further notice.
+            </p>
+
+            <p>
+                To receive distributions from the Trustee under this Plan
+                 <span class="underline bold">all creditors, including holders of secured claims, must file a proof of<br />
+                 claim with the Bankruptcy Court.</span>            
+                    
+                
+                A copy of the proof of claim must also be mailed to the Standing Chapter 13 Trustee,<br />
+            </p>
+            <p class="center">David Peake</p>
+
+            <p>
+                and to the Debtor's attorney at the address indicated above. Unless the Court orders otherwise after notice and hearing,
+                holders of secured claims must file a proof of claim within the time limits for filing unsecured claims as set forth in
+                Fed. R. Bankr. P. 3002(c). A proof of claim form has been included with the notice of the Plan confirmation hearing.
+            </p>
+
+            <p>
+                Unless the Court orders otherwise, after notice and hearing, the Trustee shall make no distributions to any claim filed after the<br />
+                time allowed for filing proofs of claim as set forth in Fed. R. Bankr. P. 3002 and 3004. Following the expiration of these time<br />
+                periods, the Trustee shall serve acknowledgments of filed claims and shall file and serve on the Debtor and Debtor's attorney a<br />
+                notice of how he intends to pay allowed claims. Objections to the provisions for treatment of any claim as set forth in the<br />
+                Trustee's claim acknowledgment or in the Trustee's Notice of Intent to Pay shall be filed with the Bankruptcy Court within thirty<br />
+                (30) days of service. The objecting party shall set the objection for hearing and serve the objection on the Trustee, the Debtor,<br />
+                and the Debtor's attorney. In the absence of any objection to the Trustee's claim acknowledgment or Notice of Intent to Pay, the<br />
+                Debtor and other parties in interest shall be barred from later objecting to the proposed distribution of funds as set forth in these<br />
+                notices.
+            </p>
+            <p>
+                Creditors may view the Debtor's bankruptcy petition, schedules and statements as well as other documents filed in the case on<br />
+                the Court's website, <u>www.nvb.uscourts.gov</u> (a subscription/fee service), or at the Bankruptcy Court Clerk's office.
+            </p>
+
+
+            <div class="header">CONFIRMATION REQUEST AND MOTION TO VALUE COLLATERAL</div>
+            <p>
+                The claim amounts set forth in this Plan are based on the best information available to the Debtor. The Debtor intends that all
+                claims shall be provided for based on the actual allowed amount of the claim. The projected distribution to holders of Class 6
+                and Class 7 unsecured claims may be decreased without further notice and hearing to the extent the Debtor has
+                underestimated the actual allowed amount of any administrative, secured and/or priority claims or to the extent the Bankruptcy
+                Court approves or orders a different treatment of these claims. The Debtor submits that this Plan satisfies the requirements of
+                11 U.S.C. §§ 1322 and 1325 and requests that the Court confirm this Chapter 13 Plan.
+            </p>
+            <p>
+                To the extent this Plan provides for payment of any secured claim based on the value of any Secured Creditor's collateral, the
+                Debtor requests that the Court determine the value of the Secured Creditor's collateral as set forth in this Plan pursuant to
+                Fed. R. Bankr. P. 3012 and that the Court approve the interest rate proposed to satisfy the allowed secured claim as set forth in
+                this Plan.
+            </p>
+
+
+            <div class="header">I. Plan Payments and Term</div>
+            
+                Unless the Court orders otherwise, the Effective Date of the Plan shall be the date the Debtor's bankruptcy petition was filed. In
+                order to complete this Plan, all or a portion of the Debtor's projected disposable earnings shall be submitted to the supervision
+                and control of the Standing Chapter 13 Trustee ("Trustee"). The Debtor's first Plan payment shall be made on or before thirty
+                (30) days following the date this Plan was filed with the Court. Unless the Court orders otherwise, in no event shall the Debtor's
+                first Plan payment be due more than forty-five (45) days after the Debtor's bankruptcy case was filed. In addition to the Debtor's
+                regular Plan payment schedule, the Debtor shall also contribute to the Plan any income tax refunds that the Debtor may be 
+                entitled to receive during the first thirty-six (36) months of the Plan. The minimum Plan base shall be
+                <div class="underline bold center" style="width: 150px;">[ $00.00 ]</div>. Debtor's proposed payment schedule is as follows:
+            
+
+            <table class="margin-top-20" style="width: 600px; margin: 0 auto;">
+                <colgroup>
+                    <col style="width: 200px;" />
+                    <col style="width: 200px;" />
+                    <col style="width: 200px;" />
+                </colgroup>
+                <thead>
+                    <tr>
+                        <td class="center bold">Amount</td>
+                        <td class="center bold">Start Month</td>
+                        <td class="center bold">End Month</td>
+                    </tr>
+                </thead>
+                <tbody class="noBorder">
+                    <tr>
+                        <td class="bold">[ $00.00 ]</td>
+                        <td class="bold">[ # ]</td>
+                        <td class="bold">[ # ]</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            
+            <p>
+                To the extent holders of general unsecured claims will not receive full payment of their allowed claims, the Debtor represents
+                and warrants that the total of the proposed Plan payments are not less than 100% of the Debtor's projected disposable earnings
+                over a thirty-six (36) month period. Unless the Court orders otherwise, if unsecured claims are not paid in full, the Plan shall not
+                terminate earlier than the stated term or 36 months, whichever is longer. If necessary to complete this Plan, the term may be
+                extended with consent of the Trustee by stipulation and order without notice and hearing, but in no event will the Plan or any
+                extension provide for payments over a period that exceeds 60 months. The proposed plan payments and/or term shall be
+                subject to adjustment to complete the Plan in the event any postpetition default results in the additional accrual of interest on
+                secured claims. Similarly, such an adjustment may be required as a result of an increase in the projected Trustee's Statutory
+                Percentage Fee.
+            </p>
+
+            <div class="header">II. Classification and Treatment of Claims and Expenses</div>
+
+            <p>
+                The claims scheduled by the Debtor are classified and provided for below. The Trustee shall make disbursements only to
+                holders of allowed claims. Unless the Court orders otherwise, a claim may be allowed only if a proof of claim form has been
+                filed by or on behalf of a creditor. Accordingly, <span class="bold underline">to be paid, all creditors, including holders of secured claims, must file a proof
+                of claim</span>. Unless the Court orders otherwise, after notice and hearing, claims filed after the applicable claims bar date shall
+                receive no distributions under this Plan. Pending confirmation of the Plan and/or other collateral valuation hearings, the
+                outcome of any lien avoidance motion or other proceeding, the proof of claim filed by or on behalf of a creditor, not the Plan or the
+                Debtor's bankruptcy schedules, will determine the amount and character of the creditor's claim. If a creditor's claim is provided
+                for by this Plan and a proof of claim is filed, distributions will be made based upon the filed proof of claim unless the Court
+                orders otherwise in the order confirming the Debtor's Chapter 13 Plan, a separate valuation hearing, a lien avoidance hearing, a
+                claim objection hearing or other proceeding. If a creditor does not object to the valuation of its collateral as set forth in the Plan,
+                the collateral will be valued and the allowed secured claim determined as set forth in the Plan. Secured claims not listed in
+                Classes 1, 2, 3, 4, or as otherwise provided for in the Plan Confirmation Order, and priority claims not listed within Class 5 or
+                otherwise provided for in the Plan Confirmation Order are not provided for by this Plan and shall not be impaired by the Plan or
+                paid by the Trustee. In the event such claims are timely filed, the Debtor shall modify this Plan to provide for the claims. Whether
+                or not a proof of claim is filed, the Debtor shall make the regular ongoing post-petition installment payments on Class 1 and
+                Class 4 claims.
+            </p>
+
+            <!--Continue-->
+            <div class="header">A. Administrative Expenses</div>
+
+            <p>
+                <span class="bold">1. Chapter 13 Trustee's fees</span> will be allowed and paid as determined by statute. The Trustee may receive up to 7.95% of the
+                money received and distributed each month, excluding direct payments by the Debtor to Class 1 and Class 4 creditors and
+                refunds from the Trustee to the Debtor.
+            </p>
+
+            <p>
+                <span class="bold">2. Administrative Expenses:</span> In most cases the only additional administrative expenses will be the Debtor's attorneys' fees.
+                Attorneys' fees and other administrative expenses must be approved by the Bankruptcy Court before they can be paid. Once
+                approved, an administrative expense will be paid in full before payment of Class 1, 2, 5, 6, and 7 claims. Distributions to
+                administrative claims may be deferred however if the Plan provides for scheduled payments to specific creditors and there are
+                not sufficient funds available to also fully fund administrative claims, the Court orders otherwise, or the administrative claimant
+                agrees to a different treatment. After deducting the<div class="underline bold center" style="width: 150px;">[ $00.00 ]</div> pre-petition retainer,
+                <div class="underline bold center" style="width: 150px;">[ $00.00 ]</div> remains to be
+                paid to Debtor's attorney.
+            </p>
+
+            <table class="checkBoxList">
+                <tbody>
+                    <tr>
+                        <td>
+                            <div class="small top">
+                                <input data-val="true" data-val-required="The Model field is required." disabled="true" id="fundAvailable" name="fundAvailable"
+                                      type="checkbox" value="true" /><input name="fundAvailable" type="hidden" value="false" />
+                                <span class="check top"></span>
+                            </div>
+                        </td>
+                        <td>
+                            "The Debtor's attorney opts to have his or her fees approved and paid in accordance with the following guideline for
+                            Payment of Attorneys' Fees in Chapter 13 Cases without filing a formal fee application. To be eligible for this
+                            treatment, total paid and unpaid fees and costs, including the filing fee, must be less than $2,285.00 and the Debtor
+                            and his or her attorney must sign and deliver to the Standing Chapter 13 Trustee at the first meeting of creditors the
+                            Court's standard form titled "Rights and Responsibilities of Chapter 13 Debtors and their Attorneys"."
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            <div class="input bold">
+                                <input data-val="true" data-val-required="The Model field is required." disabled="true" id="fundAvailable" name="fundAvailable"
+                                      type="checkbox" value="true" /><input name="fundAvailable" type="hidden" value="false" />
+                                <span class="check top"></span>
+                            </div>  
+                            <div class="indent"> The Debtor's attorney opts out of the guideline for payment of attorneys' fees without a fee application and instead
+                            will disclose to all parties in interest and seek approval of fees in accordance with 11 U.S.C. §§ 329 and 330,
+                            Fed. R. Bankr. 2002, 2016, and 2017, and the Court's Guidelines for Compensation and Expense Reimbursement
+                            of Professionals. If the Debtor's attorney opts out, no distributions shall be made on the attorney's administrative fee
+                            claim until the fee application is approved after notice and hearing. Opting out does not limit or modify the rights and
+                            responsibilities of the attorney or the Chapter 13 Debtor.
+                            </div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+                <br />
+                <div class="header">B. Secured Claims</div>
+                
+                <p>
+                    <span class="bold">Class 1. Long-term secured claims that were delinquent when the petition was filed and that mature after the last payment
+                    under the Plan is due.</span> Home loans and car loans maturing after the term of this Plan are typical Class 1 claims. Creditors
+                    holding Class 1 claims will retain their liens and security interests. Pre-petition arrears will be paid through the Plan together
+                    with interest if required by 11 U.S.C. § 1322(e). If no interest rate is specified below, the Debtor asserts that interest to cure
+                    defaults is not required by the underlying agreement and applicable law and that 0% per annum will be paid on the claim.
+                    Unless indicated below or the Court orders otherwise, all secured claims shall be paid on a pro rata basis and interest shall
+                    accrue from the petition date at the interest rate set forth below. Other than to cure pre-petition arrears, Class 1 claims are not
+                    modified or impaired by this Plan.
+                </p>
+                
+                <table class="margin-top-20">
+                <colgroup>
+                    <col />
+                    <col style="width: 100px;" />
+                    <col style="width: 100px;" />
+                    <col style="width: 100px;" />
+                </colgroup>
+                <thead>
+                    <tr>
+                        <td class="center">CLASS 1 CREDITOR'S NAME/COLLATERAL DESCRIPTION</td>
+                        <td class="center">REGULAR<br />PAYMENT</td>
+                        <td class="center">PRE-PETITION<br />ARREARS</td>
+                        <td class="center">INTEREST<br />RATE</td>
+                    </tr>
+                </thead>
+                <tbody class="noBorder">
+                    <tr>
+                        <td class="bold">[ $00.00 ]</td>
+                        <td class="bold">[ # ]</td>
+                        <td class="bold">[ # ]</td>
+                        <td class="bold">[ # ]</td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            <p>
+                <sub>
+                    [In the column "Regular Payment" state the ongoing post-petition installment payment including any impound amounts. The Regular Payment
+                    amount should appear in the Debtor's Schedule J. The "regular payment" shall be paid by the Debtor directly to the secured creditor. The
+                    "regular payment" shall be paid whether or not the Plan has been confirmed by the Court. Do not include Class 1 claims in Class 4. In the
+                    column "Pre-Petition Arrears" include the accrued but unpaid interest and principal through the date of bankruptcy as well as other accrued
+                    and unpaid charges such as attorneys' fees and foreclosure costs. Pre-petition arrears owed under an assumed executory contract or
+                    unexpired lease (see section D below) may be provided for as a Class 1 secured claim. In the column "Interest Rate" state the proposed rate
+                    to be paid. If this column is blank, the proposed interest rate is 0%.]
+                </sub>
+            </p>
+        </article>
+
+        <footer>
+            (Rev. 8/8/03)<br />
+            Page 1
+        </footer>
+    </section>
+    <div class="pageBreak" style="page-break-before:always">&nbsp;</div>
+
+
+    <section id="continuationPage">
+        <header></header>
+        <article>
+            <div class="borderBottom margin-bottom-20">
+                <div class="margin-bottom-5">
+                    <div class="as-inlineBlock top">In re:</div>
+                    <div class="as-inlineBlock bold">
+                        <div>[ placeholder ]</div>
+                        <div>[ placeholder ]</div>
+                    </div>
+                    <div class="as-inlineBlock floatRight">
+                        <div>
+                            <div class="as-inlineBlock" style="width: 90px;">Case No.</div>
+                            <span class="bold">[ placeholder ]</span>
+                        </div>
+                        <div>
+                            <div class="as-inlineBlock" style="width: 90px;">Chapter</div>
+                            <span class="bold">[ placeholder ]</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <p>
+                <span class="bold">Class 2. Secured claims that are subject to the Debtor's Motion to Value Collateral and that are modified by this Plan or
+                secured claims that will be paid in full during the Plan.</span>This class includes any secured claim that matured before the Debtor's
+                bankruptcy case was filed or secured claims that will mature prior to the completion of the Debtor's Plan. It also includes any
+                secured claim, regardless of its maturity date, that is modified as permitted by 11 U.S.C. §§ 1322(b)(2), (c)(2) and/or 1325(a)(5).
+                Each secured claim shall continue to be secured by any existing liens or security interests and will be paid either the full amount
+                of the claim or the present fair market value of the collateral that secures the claim, whichever is less. If the claim is
+                undersecured, the difference between the value of the collateral and the total claim shall be paid as a Class 7 claim. If no
+                interest rate is specified below to provide the creditor with the present value of its allowed secured claim, 10% per annum will be
+                imputed and paid on the claim. Except as set forth below or otherwise ordered by the Court, Interest shall accrue on the allowed
+                secured claim from the petition date and all secured claims shall be paid on a pro rata basis. Upon completion of the Debtor's
+                Plan, the secured creditor shall release its lien on the encumbered property. To the extent the "Claim Amount" scheduled below
+                or the total amount claimed by the creditor in a filed Proof of Claim is greater than the "Market Value of Collateral" scheduled
+                below, the Debtor requests that the Court determine the amount of the creditor's allowed secured claim and that the Court
+                determine that the fair market value of the secured creditor's collateral is as scheduled below. The Debtor further requests that
+                the Court determine that the interest rate proposed below will provide the creditor with the present value of its allowed secured
+                claim. To the extent the proposed treatment of any Class 2 Claim is opposed by any party in interest and the Bankruptcy Court
+                does not approve the proposed treatment of the claim or a modified treatment of the claim, the Plan may nevertheless be
+                confirmed if Debtor elects to surrender the Collateral to the holder of the Class 2 claim and provide for the claim as a Class 3
+                claim.
+            </p>
+            
+             <table class="margin-top-20">
+                <colgroup>
+                    <col />
+                    <col style="width: 100px;" />
+                    <col style="width: 100px;" />
+                    <col style="width: 100px;" />
+                </colgroup>
+                <thead>
+                    <tr>
+                        <td class="center">CLASS 2 CREDITOR'S NAME/COLLATERAL DESCRIPTION</td>
+                        <td class="center">CLAIM<br />AMOUNT</td>
+                        <td class="center">MARKET VALUE<br />OF COLLATERAL</td>
+                        <td class="center">INTEREST<br />RATE</td>
+                    </tr>
+                </thead>
+                <tbody class="noBorder">
+                    <tr>
+                        <td class="bold">[ placeholder ]</td>
+                        <td class="bold">[ # ]</td>
+                        <td class="bold">[ # ]</td>
+                        <td class="bold">[ # ]</td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            <p>
+                <sub>
+                    [In the column "Claim Amount" include the accrued but unpaid principal and interest through the date the bankruptcy case was filed, as well
+                    as other accrued and unpaid charges such as attorneys' fees and other collection costs. If the market value of the creditor's collateral is less
+                    than the total claim amount, the market value will be paid regardless of the amount claimed by the creditor and any difference will be paid as a
+                    Class 7 claim.]
+                </sub>
+            </p>
+            
+            <p>
+                <span class="bold">Class 3. Secured claims satisfied by the surrender of collateral.</span> Identified in the table below are secured creditors whose
+                claims will be satisfied by the surrender of their collateral. Entry of the confirmation order shall constitute an order modifying the
+                automatic stay of 11 U.S.C. § 362 to allow any secured creditor whose collateral is being surrendered to exercise its state law
+                and contractual remedies to recover its collateral. If a proof of claim is timely filed by any Class 3 creditor, the claim shall be paid
+                based on the terms of the proof of claim. No distributions shall be made by the Trustee on any secured portion of the claim as
+                reflected in the filed proof of claim. The Class 3 creditor may amend any timely filed proof of claim within twelve (12) months
+                following entry of the confirmation order to assert an unsecured deficiency claim following the disposition of the collateral under
+                applicable state law. If an amended unsecured claim is filed, it shall be treated as a Class 7 claim and shall begin receiving
+                pro rata distributions with other Class 7 claims not more than forty-five (45) days after the amended proof of claim is filed. The
+                claim shall receive distributions on a pro rata basis with other Class 7 claims on account of any amended unsecured claim that
+                may be filed. In the event an amended proof of claim is filed after the trustee has commenced distributions to holders of other
+                Class 7 claims however, the Trustee shall not be required to recover distributions from holders of other unsecured creditors in
+                order to provide an equal total pro rata distribution to the Class 3 claimant based on the amended claim. If the creditor fails to
+                file an amended proof of claim to assert a deficiency within the twelve (12) months following confirmation of the Debtor's Plan,
+                any deficiency claim greater than the amount set forth in a previously filed proof of claim shall be disallowed and discharged
+                upon completion of the Debtor's Plan.
+            </p>
+            
+            <table class="margin-top-20">
+                <colgroup>
+                    <col />
+                    <col style="width: 100px;" />
+                    <col style="width: 100px;" />
+                    <col style="width: 100px;" />
+                </colgroup>
+                <thead>
+                    <tr>
+                        <td class="center">CLASS 3 CREDITOR'S NAME/COLLATERAL DESCRIPTION</td>
+                        <td class="center">CLAIM<br />AMOUNT</td>
+                        <td class="center">VALUE OF<br />COLLATERAL</td>
+                    </tr>
+                </thead>
+                <tbody class="noBorder">
+                    <tr>
+                        <td class="bold">[ placeholder ]</td>
+                        <td class="bold">[ # ]</td>
+                        <td class="bold">[ # ]</td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            <p>
+                <span class="bold">Class 4. Claims to be paid directly by the Debtor or third party.</span> This class includes secured claims with due dates extending
+                beyond the length of the Plan and that were not delinquent when the bankruptcy case was filed. These claims are not modified
+                by this Plan. This class also includes secured and unsecured claims that will be paid with money or property that does not
+                belong to Debtor or to the Debtor's bankruptcy estate. Holders of Class 4 claims shall retain their liens and security interests.
+                Class 4 claims are not modified or impaired in any respect by the Debtor's Plan. Payments to holders of Class 4 claims,
+                including any arrears that may be claimed by the creditor in any filed proof of claim, shall be paid directly by the Debtor
+                throughout the term of the Debtor's Chapter 13 Plan.
+            </p>
+            
+            <table class="margin-top-20">
+                <colgroup>
+                    <col />
+                    <col style="width: 100px;" />
+                    <col style="width: 100px;" />
+                    <col style="width: 100px;" />
+                </colgroup>
+                <thead>
+                    <tr>
+                        <td class="center">CLASS 4 CREDITOR'S NAME</td>
+                        <td class="center">REGULAR<br />PAYMENT</td>
+                        <td class="center">MATURITY<br />DATE</td>
+                    </tr>
+                </thead>
+                <tbody class="noBorder">
+                    <tr>
+                        <td class="bold">[ placeholder ]</td>
+                        <td class="bold">[ # ]</td>
+                        <td class="bold">[ # ]</td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            <p>
+                <sub>
+                    [Do not include any Class 1 Claims in Class 4. If the Debtors are making direct payments, the "Regular Payment" scheduled above should
+                    equal the expenditures disclosed and identified in the Debtor's Schedule J.]
+                </sub>
+            </p>
+            <br />
+            <div class="header">C. Unsecured Claims</div>
+            
+            <p>
+                <span class="bold">Class 5. Priority unsecured claims.</span> Claims entitled to priority pursuant to 11 U.S.C. § 507 shall be paid in full. Unless otherwise
+                provided for below or otherwise ordered by the Court, no interest shall be paid on Class 5 claims. To the extent filed undisputed
+                Class 5 claims exceed the amounts listed below and the Debtor's Plan payments are not adequate to fully provide for the
+                claims, the Debtor shall file and serve an amended Plan or a Motion to Modify the Debtor's confirmed Plan to adequately provide
+                for all Class 5 claims. If the Plan remains feasible following the filing of one or more Class 5 claims that are greater than as
+                anticipated below, a Plan modification shall not be required to provide for payment of the claim if the only effect of the payment of
+                the allowed Class 5 claim is to reduce the projected distribution to holders of Class 6 and Class 7 claims. The Debtor's
+                Chapter 13 case shall however be subject to dismissal at any time if the Plan cannot be amended or modified to provide for full
+                payment of all allowed Class 5 claims.
+            </p>
+            
+            <table class="margin-top-20" style="width: 600px; margin: 0 auto;">
+                <colgroup>
+                    <col style="width: 200px;" />
+                    <col style="width: 200px;" />
+                    <col style="width: 200px;" />
+                </colgroup>
+                <thead>
+                    <tr>
+                        <td class="center bold">CLASS 5 CREDITOR'S NAME</td>
+                        <td class="center bold">STATUTORY BASIS FOR<br />PRIORITY STATUS</td>
+                        <td class="center bold">CLAIM<br />AMOUNT</td>
+                    </tr>
+                </thead>
+                <tbody class="noBorder">
+                    <tr>
+                        <td class="bold">[ $00.00 ]</td>
+                        <td class="bold">[ # ]</td>
+                        <td class="bold">[ # ]</td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            <p>
+                <sub>
+                    Include in the "Claim Amount" column the under-collateralized portion of any secured claim if it is entitled to priority.]
+                </sub>
+            </p>
+            
+            <p>
+                <span class="bold">Class 6. Special unsecured claims.</span> Unless the Court orders otherwise, Class 6 claims shall be paid on a pro rata basis with
+                Class 7 claims during the first thirty-six (36) months of the Plan. Any special treatment and the basis for the proposed special
+                treatment of Class 6 claims is set forth below.
+            </p>
+            
+            <table class="margin-top-20" style="width: 600px; margin: 0 auto;">
+                <colgroup>
+                    <col style="width: 200px;" />
+                    <col style="width: 200px;" />
+                    <col style="width: 200px;" />
+                </colgroup>
+                <thead>
+                    <tr>
+                        <td class="center bold">CLASS 6 CREDITOR'S NAME</td>
+                        <td class="center bold">EXPLANATION AND BASIS<br />FOR DISCRIMINATORY<br />TREATMENT</td>
+                        <td class="center bold">CLAIM AMOUNT AND<br />PROPOSED DISCRIMINATORY<br />TREATMENT OF CLAIM</td>
+                    </tr>
+                </thead>
+                <tbody class="noBorder">
+                    <tr>
+                        <td class="bold">[ $00.00 ]</td>
+                        <td class="bold">[ # ]</td>
+                        <td class="bold">[ # ]</td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            <p>
+                <sub>
+                    [The Debtor may provide discriminatory treatment to Class 6 claims after the first thirty-six (36) months of the Plan. To the extent the Debtor
+                    proposes to discriminate against Class 7 claims during the first thirty-six (36) months of the Plan, the Debtor must explain why proposed
+                    discriminatory treatment of the Class 6 claim does not unfairly discriminate against holders of Class 7 claims.]
+                </sub>
+            </p>
+            
+            <p>
+                <span class="bold">Class 7. General unsecured claims.</span> General unsecured claims will be paid on a pro rata basis after all other allowed claims
+                provided for in the Plan are satisfied. Based on the estimates set forth in this Plan, the Debtor projects that after payment of 
+                administrative, secured and priority claims, distributions to holders of general unsecured claims, including the under
+                collateralized portion of secured claims not entitled to priority, will total approximately<div class="underline bold center" style="width: 150px;">[ $00.00 ]</div>. The Debtor has
+                scheduled general unsecured claims totaling<div class="underline bold center" style="width: 150px;">[ $00.00 ]</div>. The Debtor projects that holders of Class 7 claims will
+                receive approximately<div class="underline bold center" style="width: 150px;">[ ##% ]</div> of their allowed claims. The projected distribution to general unsecured creditors may
+                however be reduced without further notice and hearing during the confirmation process in the event administrative, secured and
+                priority claims, and/or interest rates are determined to require distributions in an amount greater than is projected in this Plan.
+                Distributions may be further reduced if additional administrative expenses are awarded by the Court during the course of the
+                case.
+                
+                The Debtor represents and warrants that the distribution in this case to general unsecured claims will equal or exceed the value
+                of what general unsecured creditors would receive if the Debtor's assets were liquidated in a Chapter 7 case. The scheduled
+                value of the Debtor's unencumbered nonexempt assets is<div class="underline bold center" style="width: 150px;">[ $0.00 ].</div>
+                The Plan provides that at least this amount will be distributed to holders of unsecured claims. Following confirmation, the Plan shall remain subject to dismissal and/or
+                modification after all allowed claims are known if the expected distribution to holders of Class 5, Class 6 and Class 7
+                unsecured claims is less than the liquidation value of the Debtor's non exempt unemcumbered assets.
+            </p>
+            <br />
+            
+            <div class="header">C. Unsecured Claims</div>
+            
+            <p>
+                The Debtor requests that the Court approve the assumption of the executory contracts and unexpired leases listed in the table
+                below. The Debtor shall pay directly to the other party to the executory contract or unexpired lease all on-going post-petition
+                payments. Any pre-bankruptcy arrears shall be paid in full either as a Class 1 claim or as a Class 6 claim, or as stated in the
+                Additional Provisions (Article IV) below. Any executory contracts or unexpired leases not listed in the table below are rejected.
+            </p>
+            
+            <table class="margin-top-20" style="width: 600px; margin: 0 auto;">
+                <colgroup>
+                    <col style="width: 200px;" />
+                    <col style="width: 200px;" />
+                    <col style="width: 200px;" />
+                </colgroup>
+                <thead>
+                    <tr>
+                        <td class="center bold">NAME OF OTHER PARTY TO EXECUTORY<br />CONTRACT OR UNEXPIRED LEASE</td>
+                        <td class="center bold">PRE-PETITION<br />ARREARS</td>
+                        <td class="center bold">REGULAR<br />PAYMENT</td>
+                        <td class="center bold">ARREARS PROVIDED FOR:<br />AS A CLASS 1 CLAIM;<br />CLASS 6 CLAIM; OR AS<br />STATED IN ARTICLE IV</td>
+                    </tr>
+                </thead>
+                <tbody class="noBorder">
+                    <tr>
+                        <td class="bold">[ $00.00 ]</td>
+                        <td class="bold">[ # ]</td>
+                        <td class="bold">[ # ]</td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            <div class="header">E. Order of Distribution Between and Among Classes</div>
+            
+            <p>
+                Unless the Court orders otherwise, after confirmation of this Plan, funds available for distribution will be paid by the Trustee
+            each month in the following order: (1) the Standing Chapter 13 Trustee's statutory percentage fee; then (2) any monthly
+            payments set out in the Additional Provisions (Article IV) below or other Orders of the Court; then (3) approved administrative
+            expenses; then (4) Class 1 pre-bankruptcy arrearage claims and Class 2 claims on a pro rata basis; then (5) Class 5 priority
+            unsecured claims; then (6) Class 6 special unsecured claims and Class 7 general unsecured claims on a pro rata basis or as
+            otherwise indicated in the Plan and/or Confirmation Order. Unless otherwise set forth in the Plan or to the extent the Court
+            orders otherwise, within each distribution level, allowed claims shall be paid on a pro rata basis and interest, if any, shall accrue
+            from the petition date.
+            </p>
+            <br />
+            
+            <div class="header">III. Miscellaneous Provisions</div>
+            
+            <p>
+                <span class="bold">A. Vesting and Possession of Property.</span> Unless the Court orders otherwise, upon confirmation, all scheduled property of the
+                estate existing at the time of confirmation shall vest in the Debtor pursuant to 11 U.S.C. § 1327 and applicable law subject to the
+                terms and conditions of the Debtor's Chapter 13 Plan. The Debtor shall disclose to the Trustee and amend the Schedules of
+                Assets filed in this case to disclose any increase in property of the estate described in 11 U.S.C. § 1306(a) in which the Debtor
+                obtains an interest priort to the completion of payments required by the Plan. In the event the case is converted to another
+                Chapter of the Bankruptcy Code or is dismissed, property of the estate shall vest in accordance with 11 U.S.C. §§ 348(f), 349(b)
+                and applicable law.
+            </P>
+             
+            <p>
+                <span class="bold">B. Debtor's Duties.</span> In addition to the duties and obligations imposed upon Debtor by the Bankruptcy Code and Rules, the
+                Local Bankruptcy Court Rules, this Plan imposes the following additional requirements on Debtor:
+            </p>
+                
+            <p>
+                <span class="bold">(a) Transfers of Property and New Debt.</span> The Debtor is prohibited from transferring, encumbering, selling, or otherwise
+                disposing of any nonexempt personal or real property with a value of $1,000 or more other than in the regular course of Debtor's
+                financial or business affairs without first obtaining Bankruptcy Court approval. Except as provided in 11 U.S.C. §§ 364 and 1304,
+                the Debtor shall not incur aggregate new debt exceeding $1,000 without first obtaining Bankruptcy Court approval. If the Trustee
+                approves a proposed transfer or new debt, Court approval may be obtained by stipulation without notice and hearing. To
+                determine the appropriate procedure, the Debtor should consult with the Trustee. Without full compliance with 11 U.S.C. § 1305,
+                postpetition debts shall not be paid through this Plan. The plan may however be modified after confirmation by Stipulation and
+                Order to provide full payment of any claim allowed under § 1305 provided that the proposed modification provides for full
+                payment of the allowed postpetition claim and the modification does not alter the proposed distribution to holders of other
+                allowed claims.
+            </p>
+            
+            <p>
+                <span class="bold">(b) Insurance.</span> Debtor shall maintain insurance as required by any law, contract, or security agreement.
+            </p>
+            <p>
+                <span class="bold">(c) Support Payments.</span> Debtor shall maintain direct ongoing child or spousal support payments to the Court-ordered recipient.
+            </p>
+            <p>
+                <span class="bold">(d) Compliance with Applicable Non-Bankruptcy Law.</span> While operating under Chapter 13, the Debtor's financial and business
+                affairs shall be conducted in accordance with applicable non-bankruptcy law. This duty includes the timely filing of tax returns and
+                payment of taxes.
+            </p> 
+            <p>
+                <span class="bold">(e) Periodic Reports to the Trustee.</span> Following confirmation, the Debtor shall provide the Trustee with all federal and state
+                income tax returns including any W-2 forms and 1099 forms for each tax period that ends during the first three years of the
+                Debtor's Chapter 13 Plan. During the pendency of this Case, the Debtor shall provide the Trustee with any requested financial
+                information or other documentation regarding Debtor's business or other financial affairs.
+            </p>
+            <p>
+                <span class="bold">(f) Postconfirmation Modification.</span> The Debtor's Plan shall remain subject to postconfirmation modification pursuant to
+                11 U.S.C. § 1329 and applicable law. Provided that the proposed Plan payments are adequate to fund all allowed claims as
+                required by the Bankruptcy Code and the terms of the Debtor's Plan, the Plan shall not require modification to provide for allowed
+                claims that provided for in the Plan but exceed the projected allowed amount provided for in the Plan. After the allowed amount
+                of all claims are known however, the Debtor shall be required to modify thsi Plan to cause the Plan to be feasible, to satisfy the
+                best interest of creditors test, and/or to provide for any allowed administrative, secured and/or priority claims that are not
+                provided for in this Plan. Failure to modify the Plan to cure such deficiencies shall be cause for dismissal.
+            </p>
+            
+            <div class="header">IV. Additional Provisions</div>
+            
+            <p>
+                Additional provisions or alterations to standard form Chapter Plan are set out below (or on an attached Exhibit). Changes to the
+                preprinted language of the model Chapter 13 Plan that are not set forth below or in an attached exhibit are void and will not be
+                given any force or effect.
+            </p>
+            <br />
+            <p>
+                <span class="bold">Additional and Supplemental Plan Provisions:</span>
+            </p>
+            <br />
+            <p>
+                <span class="bold">None</span>
+            </p>
+            <p>
+                <span class="none">Dated:_________________________________</span>
+            </p>
+        </article>
+        <footer>
+            (Rev. 8/8/03)<br />
+            Page [#]
+        </footer>
+    </section>
+</body>
+</html>
